@@ -26,7 +26,8 @@
   - **_Uppercase letters (A-Z)_**
   - **_Lowercase letters (a-z)_**
   - **_Numbers (0-9)_**
-  - **_Special characters (!@#$%^&\* etc.)_** -**Generates a random, secure password based on the selected options.**
+  - **_Special characters (!@#$%^&\* etc.)_**
+- **Generates a random, secure password based on the selected options.**
 
 ## 🛠️ Technologies Used
 
