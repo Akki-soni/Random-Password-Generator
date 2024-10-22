@@ -22,11 +22,19 @@
 ## 🚀 Features
 
 - **Choose password length.**
+<<<<<<< HEAD
 - **Select character types:**
   - **_Uppercase letters (A-Z)_**
   - **_Lowercase letters (a-z)_**
   - **_Numbers (0-9)_**
   - **_Special characters (!@#$%^&\* etc.)_**
+=======
+- **Select character types:** 
+  - ***Uppercase letters (A-Z)***
+  - ***Lowercase letters (a-z)***
+  - ***Numbers (0-9)***
+  - ***Special characters (!@#$%^&\* etc.)***
+>>>>>>> d471e9d23e0add267922b17b352e87997ad93ec2
 - **Generates a random, secure password based on the selected options.**
 
 ## 🛠️ Technologies Used
@@ -37,6 +45,7 @@
 
 ## 🛠️ Usage
 
+<<<<<<< HEAD
 - **_Set the desired password length using the input field._**
 - **_Select the character types to include in the password (uppercase, lowercase, numbers, and special characters)._**
 - **_Click the "Generate Password" button to create a random password based on the selected options._**
@@ -51,6 +60,22 @@
 ## 🌟 Screenshots
 
 ![Random-Password-Generator Screenshot](images/Password%20Generator%20Screenshot.png)
+=======
+- ***Set the desired password length using the input field.***
+- ***Select the character types to include in the password (uppercase, lowercase, numbers, and special characters).***
+- ***Click the "Generate Password" button to create a random password based on the selected options.***
+- ***Copy the generated password and use it wherever needed.***
+
+## Future Enhancements
+
+- ***Add a "Copy to Clipboard" button.***
+- ***Add a password strength indicator.***
+- ***Improve the UI with better design elements.***
+
+## 🌟 Screenshots
+
+![Random-Password-Generator Screenshot]()
+>>>>>>> d471e9d23e0add267922b17b352e87997ad93ec2
 
 ## 🔗 Live Demo
 
@@ -76,7 +101,11 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akki_214g/)
 
 <a href="">
+<<<<<<< HEAD
   <img src="images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+=======
+  <img src="data/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
+>>>>>>> d471e9d23e0add267922b17b352e87997ad93ec2
 </a>
 
 </div>
