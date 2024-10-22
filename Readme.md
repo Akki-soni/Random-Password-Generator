@@ -47,7 +47,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone
+   git clone https://github.com/Akki-soni/Random-Password-Generator.git
    ```
 2. Open the project folder:
    ```bash
