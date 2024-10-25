@@ -41,7 +41,7 @@
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://random-password-generator-ten-kappa.vercel.app/)
 
 ## How to Use
 
